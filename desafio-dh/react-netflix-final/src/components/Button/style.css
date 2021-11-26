@@ -1,0 +1,15 @@
+button {
+  background: #e50914;
+  color: #fff;
+  font-size: 22px;
+  border: none;
+  border-radius: 4px;
+}
+
+.sucesso {
+  background: green;
+}
+
+.alerta {
+  background: goldenrod;
+}
